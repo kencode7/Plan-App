@@ -6,6 +6,13 @@ A React Web App for tracking Goals that covers all areas of Life.
 - Create Goals
 - Goal deadline Notification
 - Goals can be reviewed
-- checkmark when completed
+- Checkmark when completed
+
+## Technology
+### Front-end
+- React
+
+### Back-end
+- Express.js
 
 
